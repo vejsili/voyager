@@ -1,5 +1,5 @@
 # PROJECTs
-The repo shows some projects I worked on. It is under working.
+The repo shows some projects I worked on. It's under working.
 <p align="center">
   <img src="https://github.com/vejsili/voyager/blob/main/WIP.gif" alt="Work in progress" width=256 >
 </p>
