@@ -1,7 +1,7 @@
 
 <h1 align="center">PROJECTs</h1>
 
-The repo shows some projects I did. It's under working.
+The repo shows some of my projects. It's under working.
 <p align="center">
   <img src="https://github.com/vejsili/voyager/blob/main/gif/WIP.gif" alt="Work in progress" width=256 >
 </p>
