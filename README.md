@@ -1,3 +1,8 @@
+<p align="center">
+  <b> # Title </b>
+</p>
+
+
 # PROJECTs
 The repo shows some projects I did. It's under working.
 <p align="center">
