@@ -10,7 +10,7 @@ A 6-DoF aircraft is simulated with MATLAB Simulink. The project is built from sc
 
 Aerodynamic and propulsive forces had been taken into account, as required by flight dynamics equations. WGS84 model is used for the atmosphere.
 
-Here, the simulated range is shown for the aircraft on a glide, from an altitude of 1000 m :
+Here, the simulated range is shown for the aircraft on a glide, from altitude of 1000 m :
 <p align="center">
   <img src="https://github.com/vejsili/voyager/blob/main/images/ALTvsX.jpg" alt="altitude vs distance">
 </p>
