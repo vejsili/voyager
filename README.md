@@ -12,7 +12,7 @@ Aerodynamic and propulsive forces had been taken into account, as required by fl
 
 Here, some results are shown for the aircraft on a glide:
 <p align="center">
-  <img src="https://github.com/vejsili/voyager/blob/main/docs/ALTvsX.jpg" alt="altitude vs distance">
+  <img src="https://github.com/vejsili/voyager/blob/main/images/ALTvsX.jpg" alt="altitude vs distance">
 </p>
 
 
