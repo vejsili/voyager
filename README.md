@@ -14,7 +14,7 @@ Aerodynamic and propulsive forces had been taken into account, as required by fl
 
 Here, the simulated range is shown for the aircraft on a glide, from altitude of 1000 m :
 <p align="center">
-  <img src="https://github.com/vejsili/voyager/blob/main/images/ALTvsX.jpg" alt="altitude vs distance">
+  <img src="https://github.com/vejsili/voyager/blob/main/images/image_01_Simulink_PerformancePlot.jpg">
 </p>
 
 
