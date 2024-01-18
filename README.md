@@ -6,6 +6,14 @@ The repo is intended to give a glimpse of some of my projects. It's under workin
   <img src="https://github.com/vejsili/voyager/blob/main/gif/WIP.gif" alt="Work in progress" width=256 >
 </p>
 
+# Aerodynamic multi-objective optimization of a NACA 64(12)-10 in statoric cascade of axial compressor
+At the very foundation of turbomachinery design there is 2D cascade analysis. The project aimed to improve performance for a 2D statoric cascade of an axial compressor by implementing a geometric optimization. The performance of compressor are pivotal for the overall behaviour of gas turbine engine.
+
+<p align="center">
+  <img src="https://github.com/vejsili/voyager/blob/main/images/image_01_MAOM_StatoricCascade.jpg">
+</p>
+The image above shows IGV and statoric cascades of a turbojet axial compressor.
+
 # Aircraft simulator - 6 DoF
 
 A 6-DoF aircraft is simulated with MATLAB Simulink. The project is built from scratch. 
