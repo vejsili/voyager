@@ -10,9 +10,11 @@ The repo is intended to give a glimpse of some of my projects. It's under workin
 At the very foundation of turbomachinery design there is 2D cascade analysis. The project aimed to improve performance for a 2D statoric cascade of an axial compressor by implementing a geometric optimization. The performance of compressor are pivotal for the overall behaviour of gas turbine engine.
 
 <p align="center">
-  <img src="https://github.com/vejsili/voyager/blob/main/images/image_01_MAOM_StatoricCascade.jpg">
+  <img src="https://github.com/vejsili/voyager/blob/main/images/image_01_MAOM_StatoricCascade.png">
 </p>
 The image above shows IGV and statoric cascades of a turbojet axial compressor.
+
+[...]
 
 # Aircraft simulator - 6 DoF
 
