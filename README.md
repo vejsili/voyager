@@ -6,7 +6,7 @@ The repo is intended to give a glimpse of some of my projects. It's under workin
   <img src="https://github.com/vejsili/voyager/blob/main/gif/WIP.gif" alt="Work in progress" width=256 >
 </p>
 
-# Aerodynamic multi-objective optimization of a NACA 64(12)-10 in statoric cascade of axial compressor
+# [Aerodynamic multi-objective optimization of a NACA 64(12)-10 in statoric cascade of axial compressor](https://github.com/vejsili/voyager/blob/main/docs/Vejsili_Mirsad_Project_MAOM_revOpen.pdf)
 At the very foundation of turbomachinery design is 2D cascade analysis. The project aimed to improve performance of stator cascade of an axial compressor by geometric optimization. The result is pivotal for the overall behaviour of gas turbine engine.
 
 <p align="center">
