@@ -6,7 +6,7 @@ The repo is intended to give a glimpse of some of my projects. It's under workin
   <img src="https://github.com/vejsili/voyager/blob/main/gif/WIP.gif" alt="Work in progress" width=256 >
 </p>
 
-# [Aerodynamic multi-objective optimization of a NACA 64(12)-10 in statoric cascade of axial compressor](https://github.com/vejsili/voyager/blob/main/docs/Vejsili_Mirsad_Project_MAOM_rev4_Open.pdf)
+# [Aerodynamic Multi-Objective Optimization of a NACA 64(12)-10 Stator Cascade in an Axial Compressor](https://github.com/vejsili/voyager/blob/main/docs/Vejsili_Mirsad_Project_MAOM_rev4_Open.pdf)
 The study of turbomachinery is an enchanting discipline, chatacterized by the captivating physics governing the operation of these machines.
 Another crucial aspect lies in their application: each machine is meticulously designed for a specific purpose, tailored to meet precise requirements.
 For instance, imagine to compare an aircraft engine and a naval thruster: while both serve the function of propulsion, their designs inherently differ.
