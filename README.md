@@ -6,6 +6,13 @@ The repo is intended to give a glimpse of some of my projects. It's under workin
   <img src="https://github.com/vejsili/voyager/blob/main/gif/WIP.gif" alt="Work in progress" width=256 >
 </p>
 
+# Design of Variable Area Nozzle for UHBPR Turbofan Engine
+41st International Civil Aviation Organization (ICAO) Triennal Assembly set the long-term global aspirational goal (LTAG) of net-zero carbon emissions by 2050 (Montréal, 7/10/2022).
+
+Therefore, the new generation of aircraft is expected to reduce noise, NOx emissions, and fuel burn, above all, relative to the Boeing 737-800 equipped with the CFM56-7B engine. To accomplish such a challenge, different strategies are studied and applied, such as the Variable Area Nozzle concept, which will benefit engine performance at low Mach numbers, especially during Take-Off (TOF).
+
+
+
 # [Aerodynamic Multi-Objective Optimization of a NACA 64(12)-10 Stator Cascade in an Axial Compressor](https://github.com/vejsili/voyager/blob/main/docs/Vejsili_Mirsad_Project_MAOM_rev4_Open.pdf)
 The study of turbomachinery is an enchanting discipline, chatacterized by the captivating physics governing the operation of these machines.
 Another crucial aspect lies in their application: each machine is meticulously designed for a specific purpose, tailored to meet precise requirements.
