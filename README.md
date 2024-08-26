@@ -36,7 +36,7 @@ A 6-DoF aircraft is simulated with MATLAB Simulink from scratch.
 
 Aerodynamic and propulsive forces had been taken into account. WGS84 atmosphere model was chosen.
 
-Here, some results for simulated endurance and range are shown for the aircraft on a glide, starting from an altitude point of 1000 m :
+Here, some results for simulated endurance and range are shown for the aircraft on a glide, starting from an altitude point of 1000 m:
 <p align="center">
 
   
