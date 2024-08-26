@@ -30,7 +30,7 @@ The image above shows IGV and stator cascades of a turbojet axial compressor.
 
 [...]
 
-# Aircraft simulator - 6 DoF
+[//] # Aircraft simulator - 6 DoF
 
 A 6-DoF aircraft is simulated with MATLAB Simulink from scratch. 
 
