@@ -1,7 +1,7 @@
 
 <h1 align="center">PROJECTs</h1>
 
-The repo is intended to give a glimpse of some projects I delved into. It's under working.
+The repo is intended to give a glimpse of some projects I delved into.
 <p align="center">
   <img src="https://github.com/vejsili/voyager/blob/main/gif/WIP.gif" alt="Work in progress" width=256 >
 </p>
